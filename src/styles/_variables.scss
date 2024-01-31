@@ -1,0 +1,53 @@
+// Base variables
+$color-black: #272727;
+$color-gray: #7d7d7d;
+$color-dark-gray: #494949;
+$color-red: #d41a36;
+$color-light-blue: #9fa6ee;
+$color-blue: #5661cb;
+$color-dark-blue: #1d2b5b;
+
+$font-family: 'Roboto', sans-serif;
+
+$line-height-normal: normal;
+$line-height-130: 130%;
+
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+$layout-page: 1440px;
+
+// variables for apply
+
+// text color, size, height, weight
+$text-color-black: $color-black;
+$text-color-gray: $color-gray;
+$text-color-dark-gray: $color-dark-gray;
+$text-color-red: $color-red;
+$text-color-light-blue: $color-light-blue;
+$text-color-blue: $color-blue;
+$text-color-dark-blue: $color-dark-blue;
+
+$text-size-desktop-36px: 36px;
+$text-size-desktop-24px: 24px;
+$text-size-desktop-22px: 22px;
+$text-size-desktop-16px: 16px;
+
+$text-size-mobile-42px: 42px;
+$text-size-mobile-36px: 36px;
+$text-size-mobile-32px: 32px;
+$text-size-mobile-28px: 28px;
+$text-size-mobile-24px: 24px;
+$text-size-mobile-17px: 17px;
+
+// background color
+
+$background-color-black: $color-black;
+$background-color-gray: $color-gray;
+$background-color-dark-gray: $color-dark-gray;
+$background-color-red: $color-red;
+$background-color-light-blue: $color-light-blue;
+$background-color-blue: $color-blue;
+$background-color-dark-blue: $color-dark-blue;
